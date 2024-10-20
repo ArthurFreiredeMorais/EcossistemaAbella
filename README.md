@@ -1,2 +1,2 @@
 # EcossistemaAbella
-Trabalho de projeto integrador Abella dsdsd
+Trabalho de projeto integrador Abella
